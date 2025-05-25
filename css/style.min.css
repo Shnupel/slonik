@@ -130,3 +130,7 @@ nav a {
     margin-bottom: 10px;
     padding-left: 20px;
 }
+
+#mark-plan {
+    min-height: 500px;
+}
